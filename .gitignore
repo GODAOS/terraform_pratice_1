@@ -1,0 +1,7 @@
+.idea
+
+## 테라폼
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
